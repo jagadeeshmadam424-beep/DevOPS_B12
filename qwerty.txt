@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 changes from person B 
+=======
+>>>>>>> cb20aa7... person one changes
 changes done from person 1 end.
